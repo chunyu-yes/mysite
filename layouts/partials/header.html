@@ -1,12 +1,12 @@
 <header class="site-header">
   <div class="container header-row">
-    <a class="brand" href="{{ "/" | relURL }}">
+    <a class="brand" href="{{ .Site.Home.RelPermalink }}">
       <span class="brand-name">{{ .Site.Params.author }}</span>
       <span class="brand-role">{{ .Site.Params.institution }}</span>
     </a>
     <nav class="main-nav" aria-label="Main navigation">
       {{ range .Site.Menus.main }}
-        <a href="{{ .URL }}" {{ if $.IsMenuCurrent "main" . }}aria-current="page"{{ end }}>
+        <a href="{{ .URL | relLangURL }}" {{ if $.IsMenuCurrent "main" . }}aria-current="page"{{ end }}>
           {{ .Name }}
         </a>
       {{ end }}

@@ -4,7 +4,7 @@ draft: false
 ---
 You can download the latest CV here:
 
-- [CV (PDF)](/files/CV.pdf)
+- [CV (PDF)](../files/CV.pdf)
 
 The PDF on this page is the uploaded CV currently stored with the site.
 

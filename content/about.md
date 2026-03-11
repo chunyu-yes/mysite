@@ -12,7 +12,7 @@ Before Hopkins, I completed an M.S. in Epidemiology and Biostatistics at Peking 
 
 My research focuses on dementia, neurodegeneration, immune function, and biological aging through the integration of genomic, epigenetic, proteomic, and longitudinal phenotype data.
 
-Current work spans sleep and biological aging, immune-functional genomics, and multi-omics approaches to dementia and brain aging. Detailed project descriptions are available on the [Projects](/projects/) page.
+Current work spans sleep and biological aging, immune-functional genomics, and multi-omics approaches to dementia and brain aging. Detailed project descriptions are available on the [Projects](../projects/) page.
 
 ## Training And Honors
 
