@@ -1,0 +1,7 @@
+.DS_Store
+.hugo_build.lock
+.hugo_cache/
+.clang-module-cache/
+.swift-module-cache/
+public/
+resources/

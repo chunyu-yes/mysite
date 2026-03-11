@@ -1,0 +1,51 @@
+{{ define "main" }}
+  <section class="section">
+    <div class="container">
+      <article class="single">
+        <header class="page-header">
+          <h1>{{ .Title }}</h1>
+          {{ if eq .Section "news" }}
+            <p class="meta">{{ .Date.Format "January 2, 2006" }}</p>
+          {{ end }}
+          {{ if eq .Section "publications" }}
+            <div class="publication-meta">
+              {{ with .Params.authors }}
+                <p class="citation-authors">{{ delimit . ", " }}</p>
+              {{ end }}
+              <p class="meta">
+                {{ if .Params.publication_type }}
+                  {{ .Params.publication_type | title }}
+                {{ else }}
+                  Publication
+                {{ end }}
+                {{ if .Params.journal }} · {{ .Params.journal }}{{ end }}
+                {{ if .Params.year }} · {{ .Params.year }}{{ end }}
+                {{ if .Params.venue }} · {{ .Params.venue }}{{ end }}
+              </p>
+              {{ with .Params.doi }}
+                <p><a href="{{ printf "https://doi.org/%s" . }}">DOI: {{ . }}</a></p>
+              {{ end }}
+              {{ with .Params.links }}
+                <div class="link-row">
+                  {{ range . }}
+                    <a class="button button-muted" href="{{ .url }}">{{ .label }}</a>
+                  {{ end }}
+                </div>
+              {{ end }}
+            </div>
+          {{ end }}
+        </header>
+
+        {{ if and (eq .File.BaseFileName "cv") (not (fileExists "static/files/CV.pdf")) }}
+          <div class="notice">
+            CV PDF is not in `static/files/CV.pdf` yet. Add it to enable the download link.
+          </div>
+        {{ end }}
+
+        <div class="prose">
+          {{ .Content }}
+        </div>
+      </article>
+    </div>
+  </section>
+{{ end }}

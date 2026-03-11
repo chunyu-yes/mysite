@@ -1,0 +1,56 @@
+baseURL = "https://chunyu-yes.github.io/"
+languageCode = "en-us"
+title = "Chunyu Liu"
+enableRobotsTXT = true
+
+[params]
+  author = "Chunyu Liu"
+  role = "Genomics, Aging, and Multi-omics Researcher"
+  institution = "Johns Hopkins University Bloomberg School of Public Health"
+  description = "Genomics, aging, and multi-omics research grounded in strong statistical modeling and reproducible programming."
+  hero_title = "Genomics, Aging, and Multi-omics Research"
+  hero_subtitle = "I develop quantitative, reproducible methods for multi-omics and longitudinal data to study dementia, neurodegeneration, immune function, and biological aging."
+  profile_image = "images/profile.jpg"
+  email = "cliu220@jh.edu"
+  github = "https://github.com/chunyu-yes"
+  linkedin = "http://www.linkedin.com/in/chunyu-liu-7861992b0"
+  scholar = "https://scholar.google.com/citations?user=x5Z9VGgAAAAJ&hl=en"
+  location = "Baltimore, Maryland"
+  research_areas = ["Genomics", "Aging", "Multi-omics", "Statistical programming"]
+
+[permalinks]
+  projects = "/projects/:slug/"
+  news = "/news/:slug/"
+  publications = "/publications/:slug/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+
+[[menu.main]]
+  name = "About"
+  pageRef = "/about"
+  weight = 1
+
+[[menu.main]]
+  name = "Projects"
+  pageRef = "/projects"
+  weight = 2
+
+[[menu.main]]
+  name = "News"
+  pageRef = "/news"
+  weight = 3
+
+[[menu.main]]
+  name = "CV"
+  pageRef = "/cv"
+  weight = 4
+
+[[menu.main]]
+  name = "Contact"
+  pageRef = "/contact"
+  weight = 5
