@@ -1,4 +1,4 @@
-baseURL = "https://chunyu-yes.github.io/"
+baseURL = "https://chunyu-yes.github.io/mysite/"
 languageCode = "en-us"
 title = "Chunyu Liu"
 enableRobotsTXT = true
