@@ -5,6 +5,7 @@ summary: "Modeling biological pathways linking sleep disruption, immune aging ma
 field: "Sleep and Biological Aging"
 stage: "ongoing"
 draft: false
+weight: 4
 ---
 
 This project examines whether immune aging biomarkers help explain the pathway from poor sleep to cognitive decline.

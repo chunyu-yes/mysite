@@ -45,7 +45,7 @@
     <div class="container">
       <h2>Featured Work</h2>
       <div class="card-grid">
-        {{ range first 3 ((where (where .Site.RegularPages "Section" "projects") "Params.stage" "ongoing").ByTitle) }}
+        {{ range first 3 ((where (where .Site.RegularPages "Section" "projects") "Params.stage" "ongoing").ByWeight) }}
           <article class="card">
             <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
             <p>{{ .Summary }}</p>

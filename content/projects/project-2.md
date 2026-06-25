@@ -5,6 +5,7 @@ summary: "Developing immune-, cell-type-, and cell-state-informed polygenic risk
 field: "Genomics and Immune Risk"
 stage: "ongoing"
 draft: false
+weight: 1
 ---
 This thesis project develops immune-, cell-type-, and cell-state-informed polygenic risk components for Alzheimer's disease and related dementias, then evaluates how those components relate to peripheral immune biomarkers, plasma proteomics, brain MRI phenotypes, cognitive outcomes, and dementia risk.
 

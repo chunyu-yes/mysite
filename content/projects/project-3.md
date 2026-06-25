@@ -5,6 +5,7 @@ summary: "Integrating sleep architecture and high-dimensional proteomics to mode
 field: "Sleep and Biological Aging"
 stage: "ongoing"
 draft: false
+weight: 3
 ---
 
 This project links sleep-disordered breathing and sleep-stage disruption to proteomic aging signals using high-dimensional SomaScan data.
