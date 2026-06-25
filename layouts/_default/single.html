@@ -1,7 +1,7 @@
 {{ define "main" }}
   <section class="section">
     <div class="container">
-      <article class="single">
+      <article class="single{{ if .Params.feature_page }} feature-single{{ end }}">
         <header class="page-header">
           <h1>{{ .Title }}</h1>
           {{ if eq .Section "news" }}

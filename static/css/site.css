@@ -304,6 +304,121 @@ h1 {
   padding: 1.25rem;
 }
 
+.feature-single {
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+.feature-single .page-header {
+  padding: 1.4rem 0 1rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.feature-single .prose {
+  max-width: none;
+}
+
+.news-hero-panel {
+  margin: 1.5rem 0;
+  padding: 1.4rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: linear-gradient(135deg, #ffffff 0%, #eef2e8 100%);
+}
+
+.feature-kicker {
+  margin: 0 0 0.5rem;
+  color: var(--accent-strong);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.feature-lead {
+  margin: 0;
+  max-width: 68ch;
+  color: var(--text);
+  font-size: 1.18rem;
+  line-height: 1.55;
+}
+
+.feature-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  margin-top: 1.2rem;
+}
+
+.feature-section {
+  margin: 1.6rem 0 0;
+}
+
+.feature-section h2 {
+  margin: 0 0 0.75rem;
+}
+
+.feature-section p {
+  max-width: 72ch;
+}
+
+.feature-metrics {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.8rem;
+}
+
+.feature-metrics div {
+  padding: 0.95rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.8);
+}
+
+.feature-metrics strong {
+  display: block;
+  color: var(--accent-strong);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.55rem;
+  line-height: 1.1;
+}
+
+.feature-metrics span {
+  display: block;
+  margin-top: 0.25rem;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.coverage-list {
+  display: grid;
+  gap: 0.65rem;
+}
+
+.coverage-list a {
+  display: block;
+  padding: 0.85rem 0;
+  border-top: 1px solid var(--border);
+  color: var(--text);
+}
+
+.coverage-list a:last-child {
+  border-bottom: 1px solid var(--border);
+}
+
+.coverage-list a:hover {
+  color: var(--accent-strong);
+}
+
+.coverage-list span {
+  display: block;
+  color: var(--accent);
+  font-weight: 700;
+}
+
 .notice {
   margin-bottom: 1rem;
   padding: 0.8rem;
@@ -391,5 +506,9 @@ h1 {
 
   .hero {
     padding-top: 3rem;
+  }
+
+  .feature-metrics {
+    grid-template-columns: 1fr;
   }
 }
