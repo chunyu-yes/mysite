@@ -1,16 +1,16 @@
 ---
 title: "Immune PRS for Alzheimer's Disease"
 slug: "immune-prs-alzheimers"
-summary: "Developing and evaluating immune-focused polygenic risk scores for Alzheimer's disease outcomes."
+summary: "Developing immune-, cell-type-, and cell-state-informed polygenic risk components for Alzheimer's disease and related dementias."
 field: "Genomics and Immune Risk"
 stage: "ongoing"
 draft: false
 ---
-This project develops immune-related polygenic risk scores and evaluates their relationship to cognitive outcomes and Alzheimer's disease risk.
+This thesis project develops immune-, cell-type-, and cell-state-informed polygenic risk components for Alzheimer's disease and related dementias, then evaluates how those components relate to peripheral immune biomarkers, plasma proteomics, brain MRI phenotypes, cognitive outcomes, and dementia risk.
 
-- Objective: Test whether immune pathway-specific PRS improves risk stratification beyond conventional models.
-- Data: Large-scale genotype data linked with cognitive assessments and clinical outcomes.
-- Methods: Variant filtering, PRS aggregation, model calibration, and external validation where available.
+- Objective: Decompose genetic liability into immune-informed components that can be linked to measurable biological pathways and neurodegenerative phenotypes.
+- Data: Large-scale genotype data integrated with immune biomarkers, plasma proteomic profiles, brain MRI measures, cognitive assessments, and dementia outcomes.
+- Methods: Functional annotation, immune cell-type and cell-state mapping, PRS construction, association modeling, model calibration, and external validation where available.
 - Status: In progress.
 
 ### Outputs
