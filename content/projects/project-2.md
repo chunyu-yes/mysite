@@ -1,5 +1,5 @@
 ---
-title: "Immune PRS for Alzheimer's Disease"
+title: "Immune Genetic Architecture for AD"
 slug: "immune-prs-alzheimers"
 summary: "Developing immune-, cell-type-, and cell-state-informed polygenic risk components for Alzheimer's disease and related dementias."
 field: "Genomics and Immune Risk"

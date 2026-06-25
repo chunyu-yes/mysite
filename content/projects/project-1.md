@@ -5,7 +5,7 @@ summary: "JAMA Network Open study linking stronger and more regular actigraphy-d
 field: "Sleep and Biological Aging"
 stage: "ongoing"
 draft: false
-weight: 2
+weight: 5
 ---
 This JAMA Network Open study examined whether 24-hour rest-activity rhythms measured by wrist actigraphy are associated with DNA methylation-based epigenetic age acceleration in middle-aged and older adults from the Baltimore Epidemiologic Catchment Area Study.
 

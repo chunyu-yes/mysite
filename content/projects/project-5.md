@@ -5,7 +5,7 @@ summary: "Using spatial transcriptomics and cross-modality alignment to identify
 field: "Genomics and Immune Risk"
 stage: "ongoing"
 draft: false
-weight: 5
+weight: 2
 ---
 
 This project uses spatial transcriptomics to characterize microregional organization and signaling patterns in the human habenula.
