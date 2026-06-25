@@ -9,10 +9,6 @@ feature_page: true
 <div class="news-hero-panel">
   <p class="feature-kicker">JAMA Network Open publication</p>
   <p class="feature-lead">Our article, <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2848752">Twenty-Four-Hour Rest-Activity Rhythms and Epigenetic Age Acceleration in Middle-Aged and Older Adults</a>, has been published in <em>JAMA Network Open</em>.</p>
-  <div class="feature-actions">
-    <a class="button" href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2848752">Read the article</a>
-    <a class="button button-muted" href="https://doi.org/10.1001/jamanetworkopen.2026.11474">View DOI</a>
-  </div>
 </div>
 
 <section class="feature-section">
@@ -39,7 +35,11 @@ feature_page: true
 </section>
 
 <section class="feature-section">
-  <h2>Media Coverage</h2>
+  <h2>Attention And Media Coverage</h2>
+  <div class="attention-card">
+    <p class="feature-kicker">Online attention</p>
+    <p>The paper has attracted public and media attention after publication. See the article's <a href="https://jamanetwork.altmetric.com/details/196230560">Altmetric attention page</a> for a live view of news, social, and policy mentions.</p>
+  </div>
   <div class="coverage-list">
     <a href="https://www.scientificamerican.com/article/slower-biological-aging-may-tied-to-getting-the-same-amount-of-rest-each-day/">
       <span>Scientific American</span>
