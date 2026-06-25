@@ -11,9 +11,9 @@ This project investigates whether rhythm fragmentation and amplitude from actigr
 - Objective: Quantify associations between rhythm metrics and DNA methylation-based aging measures.
 - Data: Longitudinal cohort data with wearable activity signals and biomarker panels.
 - Methods: Mixed-effects models, confounder adjustment, and sensitivity analyses across subgroup strata.
-- Status: Manuscript under review at JAMA Network Open; abstract accepted for oral presentation at SLEEP 2025.
+- Status: Manuscript published in JAMA Network Open; abstract accepted for oral presentation at SLEEP 2025.
 
 ### Outputs
 
-- Manuscript: under review at JAMA Network Open
+- Manuscript: published in JAMA Network Open
 - Oral presentation: SLEEP 2025
