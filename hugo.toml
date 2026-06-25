@@ -6,7 +6,7 @@ enableRobotsTXT = true
 [params]
   author = "Chunyu Liu"
   role = "Genomics, Aging, and Multi-omics Researcher"
-  institution = "Johns Hopkins University Bloomberg School of Public Health"
+  institution = "Johns Hopkins Bloomberg School of Public Health"
   description = "Genomics, aging, and multi-omics research grounded in strong statistical modeling and reproducible programming."
   hero_title = "Genomics, Aging, and Multi-omics Research"
   hero_subtitle = "I develop quantitative, reproducible methods for multi-omics and longitudinal data to study dementia, neurodegeneration, immune function, and biological aging."

@@ -2,7 +2,7 @@
 title: "About"
 draft: false
 ---
-I am a PhD student in Mental Health at Johns Hopkins Bloomberg School of Public Health with training in psychiatric genomics, biostatistics, and epidemiology.
+I am a PhD candidate in Mental Health at Johns Hopkins Bloomberg School of Public Health, with training in psychiatric genomics, biostatistics, and epidemiology.
 
 ## Background
 

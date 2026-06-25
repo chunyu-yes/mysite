@@ -20,7 +20,6 @@
                 <div class="card-grid">
                   {{ range .Pages.ByTitle }}
                     <article class="card">
-                      <p class="meta">{{ .Params.field }}</p>
                       <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
                       <p>{{ .Summary }}</p>
                       <a class="text-link" href="{{ .RelPermalink }}">Read details</a>
@@ -40,7 +39,6 @@
                 <div class="card-grid">
                   {{ range .Pages.ByTitle }}
                     <article class="card">
-                      <p class="meta">{{ .Params.field }}</p>
                       <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
                       <p>{{ .Summary }}</p>
                       <a class="text-link" href="{{ .RelPermalink }}">Read details</a>
