@@ -2,7 +2,7 @@
 title: "Contact"
 draft: false
 ---
-If you are interested in collaboration, methods consultation, or research exchange, please reach out.
+I welcome collaboration and research exchange in brain genomics, aging cohorts, immune-genetic modeling, and multi-omics analysis.
 
 - Email: [cliu220@jh.edu](mailto:cliu220@jh.edu)
 - GitHub: [github.com/chunyu-yes](https://github.com/chunyu-yes)
@@ -10,4 +10,4 @@ If you are interested in collaboration, methods consultation, or research exchan
 - LinkedIn: [chunyu-liu-7861992b0](http://www.linkedin.com/in/chunyu-liu-7861992b0)
 - Location: Baltimore, Maryland
 
-I am open to collaboration on brain genomics, aging cohorts, and immune-genetic modeling.
+Please reach out by email if you would like to connect.
