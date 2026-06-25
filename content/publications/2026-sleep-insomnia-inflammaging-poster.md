@@ -1,6 +1,7 @@
 ---
 title: "Long-Term Insomnia Burden and Inflammaging and Immunosenescence in Older Adults"
-date: 2026-05-08
+date: 2026-07-17
+publishDate: 2026-06-25
 draft: false
 summary: "Poster presentation at SLEEP 2026 on chronic insomnia burden, inflammaging, and immunosenescence in older adults."
 authors:

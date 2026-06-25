@@ -1,6 +1,7 @@
 ---
 title: "SLEEP 2026 Poster on Long-Term Insomnia Burden and Immune Aging"
-date: 2026-05-08
+date: 2026-07-17
+publishDate: 2026-06-25
 draft: false
 summary: "Presented work on long-term insomnia burden, inflammaging, and immunosenescence in older adults at SLEEP 2026."
 ---
