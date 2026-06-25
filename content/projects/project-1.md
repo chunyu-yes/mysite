@@ -1,19 +1,20 @@
 ---
-title: "Rest/Activity Rhythms and Epigenetic Age Acceleration"
+title: "Twenty-Four-Hour Rest-Activity Rhythms and Epigenetic Age Acceleration"
 slug: "rest-activity-rhythms-epigenetic-age"
-summary: "Examining whether disrupted daily activity rhythms are associated with accelerated biological aging markers."
+summary: "JAMA Network Open study linking stronger and more regular actigraphy-derived rest-activity rhythms with lower epigenetic age acceleration in middle-aged and older adults."
 field: "Sleep and Biological Aging"
 stage: "ongoing"
 draft: false
 ---
-This project investigates whether rhythm fragmentation and amplitude from actigraphy predict epigenetic age acceleration in older adults.
+This JAMA Network Open study examined whether 24-hour rest-activity rhythms measured by wrist actigraphy are associated with DNA methylation-based epigenetic age acceleration in middle-aged and older adults from the Baltimore Epidemiologic Catchment Area Study.
 
-- Objective: Quantify associations between rhythm metrics and DNA methylation-based aging measures.
-- Data: Longitudinal cohort data with wearable activity signals and biomarker panels.
-- Methods: Mixed-effects models, confounder adjustment, and sensitivity analyses across subgroup strata.
-- Status: Manuscript published in JAMA Network Open; abstract accepted for oral presentation at SLEEP 2025.
+- Objective: Evaluate rhythm strength, regularity, fragmentation, timing, and timing variability in relation to Horvath, Hannum, PhenoAge, and GrimAge acceleration.
+- Data: 207 community-dwelling middle-aged and older adults with 7-day wrist actigraphy and blood DNA methylation data.
+- Methods: Linear regression models with demographic, behavioral, and cardiometabolic covariate adjustment, plus heterogeneity and feature-importance analyses.
+- Status: Published in JAMA Network Open; abstract accepted for oral presentation at SLEEP 2025.
 
 ### Outputs
 
-- Manuscript: published in JAMA Network Open
+- Manuscript: [JAMA Network Open](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2848752)
+- DOI: [10.1001/jamanetworkopen.2026.11474](https://doi.org/10.1001/jamanetworkopen.2026.11474)
 - Oral presentation: SLEEP 2025
