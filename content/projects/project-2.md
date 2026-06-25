@@ -11,7 +11,7 @@ This thesis project develops immune-, cell-type-, and cell-state-informed polyge
 
 - Objective: Decompose genetic liability into immune-informed components that can be linked to measurable biological pathways and neurodegenerative phenotypes.
 - Data: UK Biobank and other large-scale genotype data integrated with immune biomarkers, plasma proteomic profiles, brain MRI measures, cognitive assessments, and dementia outcomes.
-- Methods: Functional annotation, immune cell-type and cell-state mapping, PRS construction, association modeling, model calibration, and external validation where available.
+- Methods: Functional annotation, immune cell-type mapping, microglia and macrophage state mapping, PRS construction, association modeling, model calibration, and external validation where available.
 - Status: In progress.
 
 ### Outputs
